@@ -8,8 +8,4 @@ blurb:
 intro:
   heading: What we offer
   text: Beers and hugs
-products: []
-values:
-  heading: Our values
-  text: Some values
 ---
